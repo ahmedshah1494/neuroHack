@@ -13,4 +13,6 @@ print(dic)
 diclabels = list(dic.keys())
 for fname in files:
 	data = np.loadtxt(fname,skiprows=2,delimiter=',',converters={1:(lambda x: diclabels.index(str(x)[2:-1]))})
-	np.savetxt(fname[:-5]+"_clean.csv",np.delete(data,0,1))
+	for r in data:
+		r[0] = "WT" in fname
+	np.savetxt(fname[:-4]+"_clean.csv",data)
