@@ -1,6 +1,7 @@
 from sklearn.svm import LinearSVC
 from sklearn.linear_model import RandomizedLogisticRegression
 from sklearn.mixture import GaussianMixture
+from sklearn.model_selection import cross_val_score
 import numpy as np
 import os
 
@@ -36,15 +37,22 @@ for fname in files:
 # print(sorted(coefs_sorted,key=lambda x: x[1]))
 
 # ++++++++++++++RandomizedLinearRegressiong+++++++++++++++
-# rlr = RandomizedLogisticRegression(normalize=True,n_jobs=1)
+scores = []
+def rlr_score(est,x,y):
+	scores.append(est.scores_)
+	print (len(scores))
+	return 0
+rlr = RandomizedLogisticRegression(normalize=True,n_jobs=1)
+scr = cross_val_score(rlr,np.delete(allData,0,1),y=allData[:,[0]].ravel(),cv=5,n_jobs=-1,scoring=rlr_score)
+print(sum(scores)/float(len(scores)))
 # rlr.fit(np.delete(allData,0,1),allData[:,[0]].ravel())
 # print(rlr.scores_)
 # print(np.argmax(rlr.scores_),np.max(rlr.scores_))
 
-WT_gmm = GaussianMixture(n_components=1, covariance_type='full')
-WT_gmm.fit(np.delete(WT_Data,0,1))
-HET_gmm = GaussianMixture(n_components=1, covariance_type='full')
-HET_gmm.fit(np.delete(HET_Data,0,1))
+# WT_gmm = GaussianMixture(n_components=1, covariance_type='full')
+# WT_gmm.fit(np.delete(WT_Data,0,1))
+# HET_gmm = GaussianMixture(n_components=1, covariance_type='full')
+# HET_gmm.fit(np.delete(HET_Data,0,1))
 
-print(WT_gmm.covariances_)
-print(HET_gmm.covariances_)
+# print(WT_gmm.covariances_)
+# print(HET_gmm.covariances_)
