@@ -1,0 +1,276 @@
+Intensity Sum Ch=2,PositionY,0.000758157186726
+Intensity Sum Ch=2,PositionX,0.00111619383773
+Distance from Origin,Intensity Sum Ch=2,0.00115002794336
+Number of Vertices,PositionX,0.00128591578951
+Intensity Min Ch=2,Volume,0.00134954376395
+Intensity Sum Ch=2,PositionZ,0.00139139058924
+Number of Vertices,PositionY,0.00152885374685
+Distance to Image Border XY,Intensity Sum Ch=2,0.00160746547848
+Distance from Origin,Number of Vertices,0.00172097796753
+Area,Intensity Min Ch=2,0.00207396374768
+Number of Vertices,PositionZ,0.00228216038188
+Area,PositionY,0.00237267093864
+Distance to Image Border XY,Number of Vertices,0.00244107344845
+default labels,Intensity Sum Ch=2,0.00271144516138
+Intensity Min Ch=2,Intensity Sum Ch=1,0.00271810215295
+Area,PositionZ,0.00272162783354
+Area,PositionX,0.0027335132692
+Intensity Sum Ch=1,PositionY,0.00275847221304
+PositionZ,Volume,0.00280800296665
+default labels,Volume,0.00295946101677
+Intensity Sum Ch=1,PositionZ,0.00312774018147
+Intensity Sum Ch=1,PositionX,0.00336887223063
+PositionZ,Sphericity,0.00339793405725
+Intensity Min Ch=2,Number of Vertices,0.00346801364127
+default labels,Number of Vertices,0.00362148236544
+default labels,Area,0.00371243416455
+Area,Distance from Origin,0.0037557931129
+PositionY,Volume,0.00390628723656
+Area,Distance to Image Border XY,0.00421922091738
+Distance from Origin,Intensity Sum Ch=1,0.00421943538164
+PositionX,Volume,0.00445798151723
+Intensity Min Ch=2,Intensity Sum Ch=2,0.00457058435599
+Ellipticity (oblate),Intensity Sum Ch=2,0.00577291974706
+Ellipticity (oblate),Intensity Sum Ch=1,0.00581291748135
+Distance to Image Border XY,Volume,0.00583739703846
+Intensity Mean Ch=1,Sphericity,0.00611451059064
+Distance from Origin,Volume,0.00626419436643
+Intensity StdDev Ch=2,PositionY,0.00653417544184
+Distance from Origin,Intensity StdDev Ch=2,0.00723409658683
+Distance to Image Border XY,Intensity Sum Ch=1,0.00741995113232
+Intensity Mean Ch=1,Intensity Sum Ch=2,0.00757025806359
+default labels,Intensity Sum Ch=1,0.00786956612309
+Intensity Max Ch=2,PositionZ,0.00803871519343
+default labels,Sphericity,0.00830525626331
+Intensity Min Ch=1,PositionZ,0.00854612372966
+Ellipticity (prolate),Intensity Sum Ch=2,0.00877705678734
+Distance to Image Border XY,Ellipticity (prolate),0.00878142987987
+Ellipticity (prolate),Intensity Sum Ch=1,0.00894986777691
+Intensity Min Ch=1,Intensity Sum Ch=2,0.00912378063946
+Intensity Median Ch=1,Sphericity,0.00913768821768
+Intensity StdDev Ch=2,PositionX,0.00958256219694
+Ellipticity (prolate),Intensity Min Ch=2,0.00961799998555
+Intensity StdDev Ch=2,PositionZ,0.00967777582363
+Distance to Image Border XY,Intensity StdDev Ch=2,0.00972784755069
+Intensity Mean Ch=1,Number of Vertices,0.00977172037666
+Intensity Median Ch=1,PositionZ,0.00982250474303
+Intensity Median Ch=2,PositionZ,0.00994800772175
+Intensity Sum Ch=1,Sphericity,0.0108768403493
+Ellipticity (prolate),PositionZ,0.0109541044348
+Ellipticity (oblate),PositionZ,0.011135656764
+Intensity Median Ch=2,Intensity Min Ch=1,0.0115882942825
+Intensity Mean Ch=1,PositionZ,0.0117576234197
+Intensity Mean Ch=2,PositionZ,0.011830198344
+Intensity Median Ch=1,Intensity Sum Ch=2,0.0119130236767
+Intensity Mean Ch=2,Intensity Min Ch=1,0.0119942410249
+Intensity Max Ch=2,PositionY,0.0121109849626
+Ellipticity (oblate),Volume,0.0125803115423
+Intensity Min Ch=1,Intensity Sum Ch=1,0.0128585683303
+Intensity Min Ch=2,PositionZ,0.0131899312437
+Ellipticity (prolate),PositionY,0.0137581470922
+Ellipticity (oblate),Intensity Median Ch=1,0.0137621649195
+Intensity Max Ch=1,PositionZ,0.0140132819758
+Ellipticity (prolate),Intensity Median Ch=1,0.0142538442089
+Intensity StdDev Ch=1,Intensity Sum Ch=2,0.0142748173777
+Intensity Min Ch=2,Intensity StdDev Ch=2,0.0147497384748
+Intensity Sum Ch=2,Sphericity,0.0147686762546
+Distance from Origin,Ellipticity (prolate),0.0156238728264
+Intensity Min Ch=1,Sphericity,0.0156406513247
+Ellipticity (oblate),Intensity Mean Ch=1,0.0160612744029
+Ellipticity (prolate),PositionX,0.0162601488213
+Ellipticity (oblate),Number of Vertices,0.01660896072
+Ellipticity (oblate),Intensity Min Ch=2,0.0168943843174
+Ellipticity (prolate),Volume,0.017368198047
+Sphericity,Volume,0.017377974539
+Area,Intensity Mean Ch=1,0.0175210698787
+Distance to Image Border XY,Ellipticity (oblate),0.0177934413917
+Intensity Max Ch=2,PositionX,0.0179147203097
+Intensity Min Ch=1,PositionY,0.0182027951692
+Intensity Median Ch=1,Number of Vertices,0.0182149727703
+Area,Ellipticity (oblate),0.0182711921363
+Ellipticity (oblate),Intensity Min Ch=1,0.0184386238182
+Intensity Max Ch=1,PositionY,0.0185766356106
+Intensity StdDev Ch=1,PositionZ,0.018817070008
+Intensity Max Ch=2,Intensity Min Ch=1,0.0190115825969
+Intensity Mean Ch=1,Volume,0.0190430535087
+PositionX,Sphericity,0.0191366687865
+Intensity Min Ch=1,Volume,0.019193658577
+PositionY,Sphericity,0.0194374429256
+Intensity Max Ch=1,Sphericity,0.0194531042116
+Distance from Origin,Intensity Max Ch=2,0.0201832746701
+Intensity Max Ch=1,Intensity Min Ch=2,0.0202067456813
+Intensity Max Ch=1,Intensity Sum Ch=2,0.0202312387654
+Intensity Min Ch=2,Sphericity,0.0205675723069
+Ellipticity (prolate),Intensity Min Ch=1,0.0207273581745
+Ellipticity (prolate),Intensity Mean Ch=1,0.0207353161181
+Ellipticity (prolate),Number of Vertices,0.0210353982928
+Ellipticity (oblate),PositionY,0.0215703424357
+Intensity Median Ch=1,PositionY,0.0222245551131
+Ellipticity (oblate),Intensity Median Ch=2,0.0223413689117
+Intensity StdDev Ch=2,Sphericity,0.0225084298977
+Intensity Min Ch=1,Intensity Min Ch=2,0.0230011105835
+Ellipticity (oblate),PositionX,0.0230552105668
+Ellipticity (prolate),Intensity Median Ch=2,0.023181436186
+Intensity Min Ch=1,PositionX,0.0232572300901
+Intensity Mean Ch=1,PositionY,0.0233136332562
+Distance to Image Border XY,Sphericity,0.0235796308647
+Distance from Origin,Ellipticity (oblate),0.0236071168153
+Area,Ellipticity (prolate),0.0238790921466
+Area,Intensity Min Ch=1,0.0243164846887
+Distance from Origin,Sphericity,0.024445871375
+Intensity Max Ch=1,PositionX,0.024649142271
+Intensity StdDev Ch=1,Sphericity,0.0253341243638
+Intensity Min Ch=2,Intensity StdDev Ch=1,0.025383609237
+Intensity Min Ch=1,Number of Vertices,0.0254587654082
+Intensity StdDev Ch=1,PositionY,0.0257242202931
+Intensity Mean Ch=2,Sphericity,0.026171746448
+Ellipticity (oblate),Intensity Mean Ch=2,0.0273555746118
+Distance to Image Border XY,Intensity Max Ch=2,0.0274283390523
+Intensity Median Ch=1,Volume,0.0276055587243
+Intensity Median Ch=2,Volume,0.0277479702457
+Intensity Median Ch=2,Intensity Sum Ch=1,0.0279877779027
+Ellipticity (prolate),Sphericity,0.0280038899424
+Area,Intensity Median Ch=1,0.0281227508649
+Intensity Median Ch=1,PositionX,0.0281918017999
+Distance from Origin,Intensity Min Ch=1,0.0282550402489
+Intensity Mean Ch=1,PositionX,0.0285462503924
+Intensity StdDev Ch=1,Number of Vertices,0.0296446762935
+Intensity Median Ch=1,Intensity Min Ch=2,0.0298063466075
+Distance from Origin,Intensity Max Ch=1,0.0298937635385
+PositionY,PositionZ,0.0299602749381
+Intensity StdDev Ch=1,Volume,0.0299686384768
+Distance to Image Border XY,PositionZ,0.0304657774441
+Intensity Mean Ch=2,Intensity Sum Ch=1,0.0307532927279
+Ellipticity (prolate),Intensity Mean Ch=2,0.0307975422553
+Intensity Min Ch=1,Intensity StdDev Ch=2,0.03109694214
+default labels,Ellipticity (oblate),0.0317733981966
+Intensity Mean Ch=2,Volume,0.0321833781635
+Intensity Mean Ch=1,Intensity Sum Ch=1,0.0322799605531
+Intensity Mean Ch=2,PositionY,0.032354964586
+Intensity Median Ch=2,Sphericity,0.0324776749433
+Intensity StdDev Ch=1,PositionX,0.0326604433662
+default labels,Ellipticity (prolate),0.0331873014804
+Area,Intensity Median Ch=2,0.0341845814828
+Distance to Image Border XY,Intensity StdDev Ch=1,0.0341890313651
+default labels,PositionZ,0.0342313729181
+Intensity StdDev Ch=1,Intensity Sum Ch=1,0.0344951624126
+Intensity Mean Ch=1,Intensity StdDev Ch=2,0.0352718046371
+Intensity Mean Ch=2,Intensity Median Ch=1,0.035977111196
+Distance from Origin,Intensity Median Ch=1,0.0360205816976
+Distance from Origin,Intensity Mean Ch=1,0.0361206434489
+Intensity Mean Ch=1,Intensity Min Ch=2,0.0363835028923
+Intensity Median Ch=1,Intensity StdDev Ch=2,0.036554351924
+Intensity Mean Ch=2,PositionX,0.0366386994014
+Distance from Origin,Intensity StdDev Ch=1,0.0368614165094
+Distance from Origin,PositionZ,0.0368632431068
+Intensity Median Ch=2,Intensity Sum Ch=2,0.0373916824777
+Area,Intensity Mean Ch=2,0.0375946541368
+default labels,PositionY,0.0376866654375
+Area,Intensity StdDev Ch=1,0.0380111357042
+Intensity Median Ch=1,Intensity Sum Ch=1,0.0383169453558
+Intensity Median Ch=2,Number of Vertices,0.0392613407603
+Intensity Max Ch=1,Number of Vertices,0.0395276289137
+Intensity Max Ch=2,Intensity Mean Ch=1,0.0399837675733
+Intensity Median Ch=2,PositionY,0.0403009979956
+Intensity Median Ch=1,Intensity Median Ch=2,0.0408714314756
+PositionX,PositionZ,0.040948589567
+default labels,Distance from Origin,0.0409805087106
+Intensity Mean Ch=1,Intensity Mean Ch=2,0.0410867165315
+Intensity Max Ch=2,Intensity Median Ch=1,0.0411462535362
+Intensity Mean Ch=2,Number of Vertices,0.0413934855827
+Intensity Mean Ch=1,Intensity Median Ch=2,0.0414646433345
+Intensity Max Ch=2,Sphericity,0.041594659006
+default labels,PositionX,0.0417076912936
+Intensity Median Ch=2,PositionX,0.0420439441471
+Intensity Max Ch=1,Volume,0.042068493565
+Intensity Mean Ch=2,Intensity Sum Ch=2,0.0424121418316
+Distance to Image Border XY,Intensity Max Ch=1,0.0429402537023
+default labels,Intensity StdDev Ch=2,0.042982523167
+Area,Sphericity,0.0457362739338
+Intensity Max Ch=1,Intensity Sum Ch=1,0.0475429631788
+Intensity Median Ch=2,Intensity StdDev Ch=1,0.048786119456
+Distance from Origin,Intensity Mean Ch=2,0.0494741355381
+Area,Intensity Max Ch=1,0.0505924316613
+Intensity Min Ch=1,Intensity StdDev Ch=1,0.0521630400942
+Ellipticity (oblate),Intensity Max Ch=1,0.053826682606
+Number of Vertices,Sphericity,0.0546772437203
+Intensity Max Ch=1,Intensity Median Ch=2,0.0560951386693
+default labels,Intensity Max Ch=2,0.0563082707394
+Ellipticity (oblate),Sphericity,0.0564281859671
+Ellipticity (oblate),Intensity Max Ch=2,0.0570368204436
+Intensity Mean Ch=2,Intensity StdDev Ch=1,0.0571125381118
+Distance to Image Border XY,Intensity Min Ch=1,0.0574901393667
+Intensity Min Ch=2,PositionY,0.058247738875
+Intensity Min Ch=2,PositionX,0.0583934677548
+default labels,Intensity Min Ch=1,0.0585268226946
+Intensity Max Ch=2,Intensity Sum Ch=1,0.0589538587935
+Distance from Origin,Intensity Median Ch=2,0.0592117417855
+default labels,Intensity Median Ch=1,0.0608118190808
+Intensity Max Ch=1,Intensity Mean Ch=2,0.0613983654471
+Distance to Image Border XY,Intensity Mean Ch=2,0.0614112899954
+Distance to Image Border XY,Intensity Median Ch=1,0.0622391649556
+Distance to Image Border XY,Intensity Mean Ch=1,0.0644758008295
+Distance to Image Border XY,Intensity Median Ch=2,0.0664278181426
+Intensity StdDev Ch=2,Intensity Sum Ch=1,0.068454199157
+Ellipticity (prolate),Intensity Max Ch=1,0.0708111035466
+default labels,Intensity Mean Ch=1,0.0733583931594
+Ellipticity (prolate),Intensity Max Ch=2,0.075421104341
+default labels,Intensity Max Ch=1,0.077418681442
+Distance to Image Border XY,PositionY,0.0792691472787
+default labels,Intensity Median Ch=2,0.0796777126746
+Intensity Median Ch=2,Intensity StdDev Ch=2,0.0799866486834
+Intensity Max Ch=2,Intensity Sum Ch=2,0.0802578090008
+Distance to Image Border XY,PositionX,0.0814152478548
+Distance from Origin,Intensity Min Ch=2,0.0824222269339
+Intensity StdDev Ch=2,Intensity Sum Ch=2,0.0836114715885
+Distance to Image Border XY,Intensity Min Ch=2,0.0875909617766
+default labels,Intensity StdDev Ch=1,0.0893980710047
+Ellipticity (oblate),Intensity StdDev Ch=2,0.0906168119712
+default labels,Intensity Mean Ch=2,0.0926597747094
+Intensity Max Ch=2,Volume,0.0944293458776
+Distance from Origin,Distance to Image Border XY,0.0950705774544
+Intensity Max Ch=1,Intensity StdDev Ch=2,0.0962471505815
+Intensity Max Ch=1,Intensity Min Ch=1,0.0967796781125
+default labels,Intensity Min Ch=2,0.0977208363199
+Intensity Max Ch=1,Intensity Max Ch=2,0.100769181373
+Intensity Max Ch=2,Intensity StdDev Ch=1,0.109490570024
+Intensity StdDev Ch=2,Volume,0.112202354682
+Intensity StdDev Ch=2,Number of Vertices,0.113074837597
+Intensity Max Ch=2,Number of Vertices,0.113560017546
+Area,Intensity Max Ch=2,0.115413840071
+Intensity Median Ch=1,Intensity StdDev Ch=1,0.121737016684
+Ellipticity (prolate),Intensity StdDev Ch=2,0.122956442876
+Area,Intensity StdDev Ch=2,0.123675075026
+Intensity Mean Ch=2,Intensity StdDev Ch=2,0.125103632394
+Intensity Max Ch=2,Intensity Min Ch=2,0.126852343663
+Ellipticity (oblate),Intensity StdDev Ch=1,0.140619289486
+PositionX,PositionY,0.151967582202
+Intensity StdDev Ch=1,Intensity StdDev Ch=2,0.155001405197
+Intensity Sum Ch=1,Number of Vertices,0.183523545104
+Intensity Mean Ch=1,Intensity StdDev Ch=1,0.184968940091
+Ellipticity (prolate),Intensity StdDev Ch=1,0.186646011454
+Area,Intensity Sum Ch=1,0.215084607687
+Intensity Mean Ch=1,Intensity Min Ch=1,0.230116899563
+Intensity Median Ch=1,Intensity Min Ch=1,0.233723040539
+Area,Intensity Sum Ch=2,0.250321047128
+Intensity Max Ch=2,Intensity Median Ch=2,0.267272824354
+Intensity Max Ch=1,Intensity Median Ch=1,0.277646444567
+Intensity Sum Ch=2,Number of Vertices,0.286614336655
+Intensity Sum Ch=1,Volume,0.291823185774
+Distance from Origin,PositionX,0.309172876413
+Ellipticity (oblate),Ellipticity (prolate),0.311469630729
+Intensity Max Ch=2,Intensity Mean Ch=2,0.342684753576
+Intensity Max Ch=2,Intensity StdDev Ch=2,0.34618598121
+Intensity Sum Ch=2,Volume,0.35014585269
+Intensity Mean Ch=2,Intensity Min Ch=2,0.351740349406
+Intensity Max Ch=1,Intensity Mean Ch=1,0.35204337833
+Intensity Sum Ch=1,Intensity Sum Ch=2,0.369234650641
+Distance from Origin,PositionY,0.375410501475
+Intensity Max Ch=1,Intensity StdDev Ch=1,0.38325748118
+Intensity Median Ch=2,Intensity Min Ch=2,0.385774251763
+default labels,Distance to Image Border XY,0.396078197587
+Number of Vertices,Volume,0.406975942784
+Intensity Mean Ch=1,Intensity Median Ch=1,0.48728699082
+Area,Volume,0.498530030346
+Intensity Mean Ch=2,Intensity Median Ch=2,0.590249913238
+Area,Number of Vertices,0.682885059393
