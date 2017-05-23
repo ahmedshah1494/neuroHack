@@ -28,23 +28,29 @@ for fname in files:
 			HET_Data = np.concatenate((HET_Data,data),axis=0)
 
 #+++++++++++++++LinearSVM for feature selection++++++++++++
-# svc = LinearSVC(penalty='l1',dual=False)
+scores = []
+def svc_score(est,x,y):
+	scores.append(est.coef_)
+	return 0
+svc = LinearSVC(penalty='l1',dual=False)
+cross_val_score(svc,np.delete(allData,0,1),y=allData[:,[0]].ravel(),n_jobs=1,cv=5,scoring=svc_score)
+coefs = (sum(scores)/float(len(scores)))
 # svc.fit(np.delete(allData,0,1),allData[:,[0]].ravel())
 # coefs = svc.coef_**2
 # print(coefs)
 # print(np.argmax(coefs),np.max(coefs))
-# coefs_sorted = enumerate(coefs[0])
-# print(sorted(coefs_sorted,key=lambda x: x[1]))
+coefs_sorted = enumerate(coefs[0])
+print(sorted(coefs_sorted,key=lambda x: x[1]))
 
 # ++++++++++++++RandomizedLinearRegressiong+++++++++++++++
-scores = []
-def rlr_score(est,x,y):
-	scores.append(est.scores_)
-	print (len(scores))
-	return 0
-rlr = RandomizedLogisticRegression(normalize=True,n_jobs=1)
-scr = cross_val_score(rlr,np.delete(allData,0,1),y=allData[:,[0]].ravel(),cv=5,n_jobs=-1,scoring=rlr_score)
-print(sum(scores)/float(len(scores)))
+# scores = []
+# def rlr_score(est,x,y):
+# 	scores.append(est.scores_)
+# 	print (len(scores))
+# 	return 0
+# rlr = RandomizedLogisticRegression(normalize=True,n_jobs=1)
+# scr = cross_val_score(rlr,np.delete(allData,0,1),y=allData[:,[0]].ravel(),cv=5,n_jobs=-1,scoring=rlr_score)
+# print(sum(scores)/float(len(scores)))
 # rlr.fit(np.delete(allData,0,1),allData[:,[0]].ravel())
 # print(rlr.scores_)
 # print(np.argmax(rlr.scores_),np.max(rlr.scores_))
